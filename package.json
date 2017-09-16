@@ -18,6 +18,8 @@
   "homepage": "https://github.com/mshirazab/NodeJSFUN#readme",
   "dependencies": {
     "express": "^4.15.4",
-    "hbs": "^4.0.1"
+    "hbs": "^4.0.1",
+    "mongodb": "^2.2.31",
+    "tern-node-express": "^0.4.0"
   }
 }
